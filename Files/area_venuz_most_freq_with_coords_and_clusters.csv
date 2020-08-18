@@ -1,0 +1,151 @@
+,Area,City,Latitude,Longitude,Cluster#,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Al Barsha 1 {*},Dubai,25.111254000000002,55.195671999999995,0,Hotel,Clothing Store,Coffee Shop,Boutique,Pakistani Restaurant,Restaurant,Grocery Store,Middle Eastern Restaurant,Lounge,Breakfast Spot
+1,Al Hudaiba Park,Dubai,25.241694,55.277478,0,Café,Hotel,Middle Eastern Restaurant,Asian Restaurant,Coffee Shop,Chinese Restaurant,Convenience Store,Fried Chicken Joint,Dessert Shop,Bar
+2,Al Mankhool,Dubai,25.250826999999997,55.29561999999999,0,Indian Restaurant,Hotel,Fast Food Restaurant,Coffee Shop,Chinese Restaurant,Supermarket,Restaurant,Pizza Place,Seafood Restaurant,Café
+3,Al Rigga,Dubai,25.267316,55.312268,0,Hotel,Middle Eastern Restaurant,Coffee Shop,Asian Restaurant,Restaurant,Ice Cream Shop,Fast Food Restaurant,Lebanese Restaurant,Burger Joint,Indian Restaurant
+4,Al Satwa,Dubai,25.221161,55.273835999999996,0,Coffee Shop,Café,Hotel,Middle Eastern Restaurant,Restaurant,Electronics Store,Lounge,Indian Restaurant,Bar,Asian Restaurant
+5,Al Wasl - City Walk {*},Dubai,25.209912,55.259474,5,Café,Coffee Shop,Restaurant,American Restaurant,Movie Theater,Supermarket,Breakfast Spot,Bakery,Burger Joint,Steakhouse
+6,Barsha Heights,Dubai,25.098284,55.175782,0,Hotel,Coffee Shop,Café,Middle Eastern Restaurant,Gym / Fitness Center,Bar,Pub,Pizza Place,Asian Restaurant,Japanese Restaurant
+7,Business Bay,Dubai,25.188828,55.265021999999995,0,Hotel,Lounge,Indian Restaurant,Middle Eastern Restaurant,Restaurant,Gym / Fitness Center,Cocktail Bar,French Restaurant,Italian Restaurant,Spa
+8,Deira City Centre,Dubai,25.252226999999998,55.332243999999996,0,Hotel,Middle Eastern Restaurant,Coffee Shop,Café,Indian Restaurant,Clothing Store,Seafood Restaurant,Bar,Gym / Fitness Center,Lounge
+9,Dubai Marina,Dubai,25.076929,55.136727,0,Hotel,Coffee Shop,Café,Beach,Burger Joint,Breakfast Spot,Salon / Barbershop,Cocktail Bar,Multiplex,Shopping Mall
+10,Dubai Media City,Dubai,25.093525,55.151571999999994,0,Café,Hotel,Coffee Shop,Restaurant,Beach,Lounge,Middle Eastern Restaurant,Resort,Italian Restaurant,Bar
+11,Jumeirah,Dubai,25.201912,55.243349,5,Café,Middle Eastern Restaurant,Coffee Shop,Beach,Burger Joint,Park,Seafood Restaurant,Gym / Fitness Center,Plaza,Japanese Restaurant
+12,Jumeirah Village Centre,Dubai,25.201912,55.243349,5,Café,Middle Eastern Restaurant,Coffee Shop,Beach,Burger Joint,Park,Seafood Restaurant,Gym / Fitness Center,Plaza,Japanese Restaurant
+13,Mushrif,Dubai,25.266904999999998,55.296018000000004,0,Indian Restaurant,Hotel,Middle Eastern Restaurant,Café,Shopping Mall,Electronics Store,Historic Site,Asian Restaurant,Market,Pub
+14,Umm Al Sheif,Dubai,25.132752,55.205856999999995,3,Coffee Shop,Café,Pharmacy,Jewelry Store,Spa,Gym / Fitness Center,Grocery Store,Restaurant,Fast Food Restaurant,Sandwich Place
+15,Umm Suqeim 2,Dubai,25.152035,55.206111,5,Café,Coffee Shop,Burger Joint,Snack Place,Juice Bar,Middle Eastern Restaurant,Salon / Barbershop,Sandwich Place,Convenience Store,Restaurant
+16,Angel,London,51.531945799999995,-0.10610560000000001,3,Pub,Coffee Shop,French Restaurant,Arts & Crafts Store,Pizza Place,Café,Theater,Gym / Fitness Center,Bakery,Japanese Restaurant
+17,Battersea {*},London,51.470893,-0.16980399999999998,3,Pub,Grocery Store,Bakery,Coffee Shop,Hotel,Bar,Café,Supermarket,Italian Restaurant,Pharmacy
+18,Bond street,London,51.514299,-0.149002,3,Hotel,French Restaurant,Burger Joint,Art Gallery,Clothing Store,Boutique,Juice Bar,Coffee Shop,Lounge,Department Store
+19,Chelsea-Knightsbridge,London,51.49405,-0.169173,3,Café,Ice Cream Shop,Coffee Shop,Exhibit,Hotel,Italian Restaurant,Gym / Fitness Center,Dessert Shop,Restaurant,Garden
+20,Earl's Court,London,51.49161229999999,-0.193903,0,Hotel,Café,Pub,Burger Joint,Italian Restaurant,Pizza Place,Garden,Thai Restaurant,Indian Restaurant,Coffee Shop
+21,Fulham,London,51.474422100000005,-0.2060772,5,Café,Coffee Shop,Italian Restaurant,Pub,Park,Pizza Place,Grocery Store,Bakery,Climbing Gym,Thai Restaurant
+22,Hammersmith,London,51.492037700000004,-0.22364009999999998,3,Pub,Coffee Shop,Gym / Fitness Center,Italian Restaurant,Sandwich Place,Café,Bakery,Park,Thai Restaurant,French Restaurant
+23,Holborn,London,51.5179341,-0.11952839999999999,3,Coffee Shop,Hotel,Theater,Bookstore,Pub,History Museum,Exhibit,Hotel Bar,English Restaurant,Restaurant
+24,Kennington {*},London,51.485555,-0.110003,5,Pub,Café,Park,Coffee Shop,Italian Restaurant,Gym / Fitness Center,Gay Bar,Theater,Cricket Ground,Pizza Place
+25,Nine Elms,London,51.4787433,-0.1362629,3,Portuguese Restaurant,Pub,Café,Bar,Hotel,Coffee Shop,Indian Restaurant,Grocery Store,Gym / Fitness Center,Gastropub
+26,Notting Hill,London,51.5109995,-0.20552670000000003,3,Italian Restaurant,Pub,Bakery,Gym / Fitness Center,Restaurant,Cocktail Bar,Bookstore,Breakfast Spot,Café,Bar
+27,Paddington,London,51.5170856,-0.1775422,3,Café,Pub,Coffee Shop,Garden,Hotel,Sandwich Place,Persian Restaurant,Argentinian Restaurant,Beer Bar,Bakery
+28,Shoreditch,London,51.526669399999996,-0.07989260000000001,3,Coffee Shop,Café,Pub,Italian Restaurant,Hotel,Vietnamese Restaurant,Pizza Place,Wine Bar,Restaurant,Cocktail Bar
+29,Southwark,London,51.5029222,-0.103458,3,Pub,Theater,Coffee Shop,Hotel,Italian Restaurant,Street Food Gathering,Scenic Lookout,Seafood Restaurant,Restaurant,Art Museum
+30,Victoria,London,51.4963688,-0.1431522,0,Hotel,Coffee Shop,Restaurant,Theater,Bakery,Sandwich Place,Café,Gym / Fitness Center,Pub,Fast Food Restaurant
+31,West Bermondsey,London,51.497704999999996,-0.076955,3,Pub,Coffee Shop,Brewery,Italian Restaurant,Park,Cocktail Bar,Bakery,Bar,French Restaurant,Hotel
+32,Arzaga,Milan,45.458566,9.139432000000001,4,Pizza Place,Café,Japanese Restaurant,Plaza,Restaurant,Italian Restaurant,Supermarket,Sporting Goods Shop,Park,Hotel
+33,Brenta,Milan,45.442811,9.218481,4,Pizza Place,Italian Restaurant,Café,Japanese Restaurant,Supermarket,Plaza,Gym,Clothing Store,Dessert Shop,Cocktail Bar
+34,Bullona,Milan,45.487549,9.166286,4,Italian Restaurant,Pizza Place,Restaurant,Café,Trattoria/Osteria,Japanese Restaurant,Seafood Restaurant,Ice Cream Shop,Chinese Restaurant,Hotel
+35,Città Studi,Milan,45.477056,9.226575,4,Italian Restaurant,Pizza Place,Dessert Shop,Ice Cream Shop,Café,Pub,Restaurant,Seafood Restaurant,Cocktail Bar,Tram Station
+36,Duomo,Milan,45.464138,9.188555000000001,4,Hotel,Plaza,Boutique,Italian Restaurant,Ice Cream Shop,Monument / Landmark,Bakery,Cocktail Bar,Coffee Shop,Bar
+37,Lotto,Milan,45.479774,9.143671000000001,4,Café,Italian Restaurant,Plaza,Hotel,Pizza Place,Sushi Restaurant,Supermarket,Bar,Coffee Shop,Japanese Restaurant
+38,Marche,Milan,45.496146,9.194824,4,Italian Restaurant,Pizza Place,Café,Seafood Restaurant,Bistro,Hotel,Pub,Burger Joint,Bakery,Ice Cream Shop
+39,Milano Porta Genova,Milan,45.453071,9.169179,4,Italian Restaurant,Cocktail Bar,Seafood Restaurant,Bar,Hotel,Burger Joint,Japanese Restaurant,Art Gallery,Plaza,Boutique
+40,Pasteur,Milan,45.490283000000005,9.217947,4,Italian Restaurant,Ice Cream Shop,Café,Hotel,Restaurant,Chinese Restaurant,Pizza Place,Japanese Restaurant,Seafood Restaurant,Trattoria/Osteria
+41,Porta Garibaldi,Milan,45.480665,9.186888,4,Italian Restaurant,Restaurant,Café,Ice Cream Shop,Hotel,Pizza Place,Japanese Restaurant,Cocktail Bar,Art Gallery,Bistro
+42,Porta Magenta,Milan,45.468035,9.165308999999999,4,Italian Restaurant,Ice Cream Shop,Plaza,Café,Coffee Shop,Sandwich Place,Wine Bar,Pizza Place,Clothing Store,Art Gallery
+43,Porta Venezia,Milan,45.474282,9.205226,4,Hotel,Italian Restaurant,Pizza Place,Cocktail Bar,Ice Cream Shop,Café,Bakery,Art Gallery,Dessert Shop,Ramen Restaurant
+44,Porta Vigentina,Milan,45.451351,9.196444999999999,4,Italian Restaurant,Cocktail Bar,Wine Bar,Café,Japanese Restaurant,Restaurant,Theater,Bar,Trattoria/Osteria,Pub
+45,Porta Vittoria,Milan,45.462261,9.20958,4,Italian Restaurant,Ice Cream Shop,Pizza Place,Cocktail Bar,Hotel,Japanese Restaurant,Seafood Restaurant,Restaurant,Sporting Goods Shop,Museum
+46,Stadera,Milan,45.434853000000004,9.179022999999999,4,Italian Restaurant,Tram Station,Supermarket,Japanese Restaurant,Pizza Place,Hotel,Gym,Chinese Restaurant,Restaurant,Café
+47,Central Harlem - West 125th St,New York,40.806872,-73.943336,3,French Restaurant,Jazz Club,Coffee Shop,Southern / Soul Food Restaurant,Mexican Restaurant,Café,Caribbean Restaurant,Wine Bar,Cocktail Bar,African Restaurant
+48,Chelsea,New York,40.74403471,-74.00311633,3,Art Gallery,Coffee Shop,American Restaurant,Bakery,Roof Deck,Italian Restaurant,Café,Seafood Restaurant,Boutique,Salon / Barbershop
+49,Chinatown - Division St,New York,40.714288,-73.994157,3,Ice Cream Shop,Chinese Restaurant,Cocktail Bar,Optical Shop,Sandwich Place,Bakery,Spa,Mexican Restaurant,Coffee Shop,Salon / Barbershop
+50,Clinton,New York,40.75910089,-73.99611936,3,Coffee Shop,Theater,Gym / Fitness Center,Italian Restaurant,Wine Shop,American Restaurant,Hotel,Bakery,Burger Joint,Gym
+51,East Harlem - 104th St,New York,40.790267,-73.945626,3,Mexican Restaurant,Park,Gym,Coffee Shop,Deli / Bodega,Café,Pizza Place,Thai Restaurant,Bakery,Cocktail Bar
+52,Financial District,New York,40.70710711,-74.01066545,3,Coffee Shop,Pizza Place,Hotel,Park,Falafel Restaurant,Cocktail Bar,Café,Mexican Restaurant,Plaza,Gym
+53,Gramercy,New York,40.73720983,-73.98137595,3,New American Restaurant,American Restaurant,Indian Restaurant,Park,Coffee Shop,Café,Mexican Restaurant,Juice Bar,Italian Restaurant,Bagel Shop
+54,Greenwich Village - Spring St,New York,40.725784999999995,-74.003947,3,Italian Restaurant,Café,Seafood Restaurant,Cycle Studio,Sushi Restaurant,Pizza Place,Sandwich Place,American Restaurant,Coffee Shop,Men's Store
+55,Hamilton Heights,New York,40.82360428,-73.94968792,3,Coffee Shop,Café,Deli / Bodega,Bar,Mexican Restaurant,Park,Sushi Restaurant,Yoga Studio,Ethiopian Restaurant,Chinese Restaurant
+56,Lincoln Square - 66 St,New York,40.773693,-73.982239,3,Gym / Fitness Center,Italian Restaurant,Jazz Club,Plaza,Gym,Performing Arts Venue,Theater,American Restaurant,Bakery,Café
+57,Lower East Side - Hamilton Fish Park,New York,40.719752,-73.980774,3,Cocktail Bar,Coffee Shop,Pizza Place,Italian Restaurant,Mexican Restaurant,Garden,Sandwich Place,Wine Shop,Art Gallery,Southern / Soul Food Restaurant
+58,Midtown - Grand Central,New York,40.752469,-73.97751099999999,3,Coffee Shop,Grocery Store,Japanese Restaurant,Plaza,Vegetarian / Vegan Restaurant,Bakery,Gym,Sandwich Place,Hotel,Gourmet Shop
+59,Morningside Heights - Columbia Law School,New York,40.806866,-73.960509,3,Park,Coffee Shop,Italian Restaurant,American Restaurant,Bookstore,Mexican Restaurant,Bakery,Wine Shop,Café,Grocery Store
+60,Sutton Place,New York,40.76028033,-73.96355614,3,Italian Restaurant,Salon / Barbershop,Coffee Shop,French Restaurant,Gym,Spa,Hotel,Park,Furniture / Home Store,Bakery
+61,Upper East Side - 3rd Av,New York,40.774314000000004,-73.957296,3,Italian Restaurant,Bakery,Coffee Shop,Thai Restaurant,Ice Cream Shop,Sushi Restaurant,Gym / Fitness Center,Bar,Yoga Studio,Spa
+62,Upper West Side - 90th St,New York,40.790254,-73.973171,3,Italian Restaurant,Park,Bakery,Ice Cream Shop,Gym,Grocery Store,Coffee Shop,Wine Bar,American Restaurant,Bar
+63,10th Arrondissement,Paris,48.876106,2.3599099999999997,3,French Restaurant,Coffee Shop,Cocktail Bar,Indian Restaurant,Asian Restaurant,Pizza Place,Bakery,Japanese Restaurant,Hotel,Bistro
+64,11th Arrondissement,Paris,48.858416,2.3797029999999997,3,French Restaurant,Bar,Restaurant,Café,Italian Restaurant,Wine Bar,Cocktail Bar,Bistro,Pizza Place,Asian Restaurant
+65,12th Arrondissement,Paris,48.8396154,2.3957517000000004,2,French Restaurant,Hotel,Japanese Restaurant,Bakery,Bistro,Gym / Fitness Center,Chinese Restaurant,Italian Restaurant,Plaza,Bar
+66,14th Arrondissement,Paris,48.8330589,2.3269591,2,French Restaurant,Hotel,Bar,Italian Restaurant,Pizza Place,Vietnamese Restaurant,Japanese Restaurant,Bakery,Creperie,Beer Store
+67,15th Arrondissement,Paris,48.841370500000004,2.3003827,2,French Restaurant,Hotel,Italian Restaurant,Bakery,Lebanese Restaurant,Korean Restaurant,Park,Thai Restaurant,Bistro,Creperie
+68,16th Arrondissement,Paris,48.8631709,2.2757647999999997,2,French Restaurant,Italian Restaurant,Hotel,Pizza Place,Bakery,Café,Museum,Plaza,Brasserie,Supermarket
+69,6th Arrondissement,Paris,48.8504333,2.3329507,3,French Restaurant,Italian Restaurant,Wine Bar,Pastry Shop,Sandwich Place,Bookstore,Ice Cream Shop,Seafood Restaurant,Plaza,Cocktail Bar
+70,8th Arrondissement,Paris,48.8774799,2.31765,2,French Restaurant,Hotel,Bar,Italian Restaurant,Restaurant,Cosmetics Shop,Art Museum,Thai Restaurant,Lebanese Restaurant,Bistro
+71,Arc de Triomphe,Paris,48.8737791,2.295037226,2,Hotel,French Restaurant,Italian Restaurant,Clothing Store,Seafood Restaurant,Cosmetics Shop,Pastry Shop,Moroccan Restaurant,Scandinavian Restaurant,Hotel Bar
+72,Invalides - La Tour-Maubourg,Paris,48.85795,2.3101849999999997,2,French Restaurant,Hotel,Italian Restaurant,Plaza,Historic Site,Garden,Coffee Shop,Cocktail Bar,History Museum,Bakery
+73,Le Marais,Paris,48.8603823,2.3607419999999997,3,Clothing Store,French Restaurant,Ice Cream Shop,Burger Joint,Cocktail Bar,Coffee Shop,Bookstore,Sandwich Place,Italian Restaurant,Art Gallery
+74,National Library (Richelieu),Paris,48.867356,2.3384139999999998,4,Hotel,Plaza,Japanese Restaurant,Historic Site,French Restaurant,Bakery,Italian Restaurant,Cocktail Bar,Coffee Shop,Pedestrian Plaza
+75,Olympiades,Paris,48.827044799999996,2.3664175,1,Vietnamese Restaurant,Thai Restaurant,Chinese Restaurant,Asian Restaurant,French Restaurant,Hotel,Japanese Restaurant,Italian Restaurant,Park,Gym / Fitness Center
+76,Pigalle,Paris,48.8822775,2.3381228,2,French Restaurant,Bakery,Italian Restaurant,Hotel,Bar,Plaza,Cocktail Bar,Wine Bar,Bistro,Coffee Shop
+77,Place Monge,Paris,48.8429053,2.3522772,2,French Restaurant,Coffee Shop,Italian Restaurant,Café,Hotel,Science Museum,Bakery,Wine Bar,Plaza,Greek Restaurant
+78,Bernal Heights,San Francisco,37.7429861,-122.41580420000001,3,Mexican Restaurant,Coffee Shop,Cocktail Bar,Italian Restaurant,Café,Park,Grocery Store,Bakery,Pizza Place,Deli / Bodega
+79,Buena Vista,San Francisco,37.8065321,-122.42064850000001,3,Seafood Restaurant,Park,Chocolate Shop,Historic Site,Bike Rental / Bike Share,Ice Cream Shop,Coffee Shop,Sushi Restaurant,National Park,Tour Provider
+80,Buena Vista Park {*},San Francisco,37.767559999999996,-122.44390800000001,3,Park,Coffee Shop,Ice Cream Shop,Gift Shop,Shoe Store,Boutique,Bookstore,Breakfast Spot,Mexican Restaurant,Indian Restaurant
+81,Hayes Valley,San Francisco,37.7766853,-122.4229361,3,Wine Bar,Dessert Shop,Theater,Boutique,French Restaurant,Bakery,New American Restaurant,Cocktail Bar,Coffee Shop,Optical Shop
+82,Inner Sunset {*},San Francisco,37.758549,-122.463827,3,Trail,Coffee Shop,Park,Sushi Restaurant,Ice Cream Shop,Bakery,Thai Restaurant,Sandwich Place,Gym,Korean Restaurant
+83,Jordan Park {*},San Francisco,37.782635,-122.456736,3,Bakery,Japanese Restaurant,Thai Restaurant,Coffee Shop,Burmese Restaurant,Golf Course,Wine Bar,American Restaurant,Italian Restaurant,Bookstore
+84,Lawton St - 26th Av,San Francisco,37.757689,-122.484269,1,Chinese Restaurant,Bubble Tea Shop,Vietnamese Restaurant,Bakery,Japanese Restaurant,Bank,Dim Sum Restaurant,Dumpling Restaurant,Donut Shop,Thai Restaurant
+85,Lower Pacific Heights,San Francisco,37.7857666,-122.43890420000001,3,Bakery,Park,Ice Cream Shop,Spa,Salon / Barbershop,Sandwich Place,Boutique,Sushi Restaurant,Cosmetics Shop,Gym / Fitness Center
+86,Marina District,San Francisco,37.8029843,-122.43747150000002,3,Gym / Fitness Center,Italian Restaurant,French Restaurant,Wine Bar,Sandwich Place,Park,Deli / Bodega,Thai Restaurant,Electronics Store,Coffee Shop
+87,Mission Bay,San Francisco,37.770774200000005,-122.3911712,3,Coffee Shop,Baseball Stadium,Park,New American Restaurant,Bar,Gym,Food Truck,Furniture / Home Store,Gym / Fitness Center,Sandwich Place
+88,Mission District {*},San Francisco,37.761976000000004,-122.417188,3,Mexican Restaurant,Cocktail Bar,New American Restaurant,Bakery,Music Venue,Café,Sandwich Place,Gym,Gift Shop,Bookstore
+89,Nob Hill - Japantown,San Francisco,37.790619,-122.420693,3,Wine Bar,Sushi Restaurant,Coffee Shop,Grocery Store,American Restaurant,Vietnamese Restaurant,Gym / Fitness Center,Italian Restaurant,Cocktail Bar,Sandwich Place
+90,Noe Valley,San Francisco,37.7515906,-122.4320814,3,Wine Shop,Coffee Shop,Gift Shop,Bakery,Park,Playground,Trail,Bookstore,Chinese Restaurant,Café
+91,Outer Richmond {*},San Francisco,37.78107,-122.48698300000001,1,Café,Grocery Store,Chinese Restaurant,Sushi Restaurant,Playground,Korean Restaurant,Mexican Restaurant,Vietnamese Restaurant,Pizza Place,Bakery
+92,Potrero Terrace,San Francisco,37.753918,-122.39686499999999,3,Café,Park,Sandwich Place,Coffee Shop,Wine Bar,Gift Shop,Breakfast Spot,Art Gallery,Deli / Bodega,Theater
+93,Richmond District,San Francisco,37.7806432,-122.47259640000001,1,Chinese Restaurant,Bakery,Korean Restaurant,Thai Restaurant,Asian Restaurant,Japanese Restaurant,Vietnamese Restaurant,Dim Sum Restaurant,Café,Restaurant
+94,Rincon Hill {*},San Francisco,37.785902,-122.395302,3,Coffee Shop,Café,Gym,Museum,Park,Art Gallery,Art Museum,Tea Room,Liquor Store,Gym / Fitness Center
+95,South of Market - West Soma,San Francisco,37.778538,-122.405654,3,Coffee Shop,Bakery,Pizza Place,Vietnamese Restaurant,Theater,Marijuana Dispensary,Gym / Fitness Center,Sandwich Place,Art Gallery,Brewery
+96,Telegraph Hill,San Francisco,37.800785,-122.4040908,3,Pizza Place,Café,New American Restaurant,Men's Store,Bakery,Italian Restaurant,Park,Coffee Shop,Wine Bar,Trail
+97,Anderson Bridge,Singapore,1.2872881999999999,103.8529902,0,Hotel,Gym / Fitness Center,Waterfront,Event Space,Cocktail Bar,Coffee Shop,Italian Restaurant,Theater,Sandwich Place,Boutique
+98,Bukit Purmei - Radin Mas,Singapore,1.2741879999999999,103.825997,1,Coffee Shop,Food Court,Café,Asian Restaurant,Chinese Restaurant,Restaurant,Bus Station,Bus Stop,Furniture / Home Store,Grocery Store
+99,Kallang,Singapore,1.310759,103.866262,1,Food Court,Hostel,Noodle House,Chinese Restaurant,BBQ Joint,Thai Restaurant,Restaurant,Coffee Shop,Supermarket,Soup Place
+100,Marina South,Singapore,1.2769979999999999,103.8615002,3,Coffee Shop,Garden,Japanese Restaurant,Hotel,Boutique,Bar,Scenic Lookout,Waterfront,Bridge,Dumpling Restaurant
+101,Mountbatten,Singapore,1.3063254,103.8827278,1,Noodle House,Chinese Restaurant,Seafood Restaurant,Café,Dim Sum Restaurant,Fast Food Restaurant,Asian Restaurant,Food Court,Supermarket,Soup Place
+102,Novena,Singapore,1.3205257,103.84388129999999,1,Chinese Restaurant,Hotel,Coffee Shop,Café,Food Court,Bakery,Japanese Restaurant,Asian Restaurant,Fast Food Restaurant,Supermarket
+103,Orchard Boulevard,Singapore,1.3028224,103.8237559,0,Hotel,Japanese Restaurant,Chinese Restaurant,Coffee Shop,Bakery,Café,Miscellaneous Shop,Department Store,Boutique,French Restaurant
+104,Outram,Singapore,1.2828694999999999,103.8378603,3,Café,Hotel,Japanese Restaurant,Italian Restaurant,Bookstore,Hostel,Chinese Restaurant,Seafood Restaurant,Burger Joint,Coffee Shop
+105,Rochor,Singapore,1.3039183,103.8527885,0,Indian Restaurant,Café,Hotel,Bakery,Vegetarian / Vegan Restaurant,Japanese Restaurant,Dessert Shop,Chinese Restaurant,Ice Cream Shop,Shopping Mall
+106,Somerset,Singapore,1.30038375,103.8388285,0,Hotel,Shopping Mall,Clothing Store,Japanese Restaurant,Boutique,Ramen Restaurant,Bakery,Chinese Restaurant,Sushi Restaurant,Steakhouse
+107,Stevens,Singapore,1.319979,103.82555,0,Hotel,Garden,Italian Restaurant,Steakhouse,Tennis Court,College Gym,Lounge,Malay Restaurant,Seafood Restaurant,Track Stadium
+108,Tiong Bahru - Redhill,Singapore,1.288251,103.822591,1,Chinese Restaurant,Coffee Shop,Food Court,Noodle House,Café,Park,Supermarket,Fast Food Restaurant,Sushi Restaurant,Hainan Restaurant
+109,Bondi,Sydney,-33.893055600000004,151.2633333,5,Café,Park,Italian Restaurant,Pizza Place,Australian Restaurant,Bar,Thai Restaurant,Grocery Store,Middle Eastern Restaurant,Japanese Restaurant
+110,Chippendale - Ultimo,Sydney,-33.884304,151.200078,5,Café,Thai Restaurant,Bar,Coffee Shop,Pub,Pool,Hotel,Supermarket,Bookstore,Park
+111,City {*},Sydney,-33.865423,151.207317,5,Café,Bar,Coffee Shop,Cocktail Bar,Hotel,Speakeasy,Steakhouse,Shopping Mall,Restaurant,French Restaurant
+112,Clovelly,Sydney,-33.9126387,151.26179040000002,5,Café,Beach,Burger Joint,Bakery,Park,Fish & Chips Shop,Bowling Green,Breakfast Spot,Bar,Wine Shop
+113,Elizabeth Bay House,Sydney,-33.870084999999996,151.226444,5,Café,Italian Restaurant,Australian Restaurant,Park,Japanese Restaurant,Chinese Restaurant,Hotel,Coffee Shop,Pub,Lounge
+114,Forest Lodge,Sydney,-33.8805556,151.17833330000002,5,Café,Pizza Place,Pub,Park,Australian Restaurant,Japanese Restaurant,Thai Restaurant,Italian Restaurant,Gym,Indian Restaurant
+115,Lavender Bay,Sydney,-33.843200200000005,151.2074155,5,Café,Bar,Park,Coffee Shop,Italian Restaurant,Japanese Restaurant,Bakery,Gym,Juice Bar,Thai Restaurant
+116,Macdonaldtown,Sydney,-33.896783,151.186337,5,Café,Thai Restaurant,Pub,Bar,Coffee Shop,Italian Restaurant,Cocktail Bar,Australian Restaurant,Ice Cream Shop,Pizza Place
+117,Pyrmont,Sydney,-33.867554999999996,151.192691,5,Café,Seafood Restaurant,Bar,Hotel,Coffee Shop,Australian Restaurant,Park,Ice Cream Shop,Italian Restaurant,Pub
+118,Randwick,Sydney,-33.914121,151.2410046,5,Café,Thai Restaurant,Pizza Place,Fast Food Restaurant,Supermarket,Tapas Restaurant,Vietnamese Restaurant,Bakery,Sandwich Place,Juice Bar
+119,Rozelle,Sydney,-33.8645002,151.1743543,5,Café,Pub,Park,Pizza Place,Thai Restaurant,Bar,Italian Restaurant,Sushi Restaurant,Vegetarian / Vegan Restaurant,Indian Restaurant
+120,Surry Hills - Darlinghurst,Sydney,-33.880456,151.21671899999998,5,Café,Coffee Shop,Bakery,Bar,Pub,Italian Restaurant,Cocktail Bar,Japanese Restaurant,Ice Cream Shop,Pizza Place
+121,Waterloo,Sydney,-33.90027620000001,151.2073137,5,Café,Bakery,Park,Pub,Pizza Place,Thai Restaurant,Vietnamese Restaurant,Furniture / Home Store,Bar,Japanese Restaurant
+122,Woollahra - Double Bay,Sydney,-33.880873,151.243412,5,Café,Supermarket,Restaurant,Pub,Park,Italian Restaurant,Japanese Restaurant,Bar,Seafood Restaurant,Thai Restaurant
+123,Asakusabashi Station,Tokyo,35.697203,139.786148,6,Sake Bar,Ramen Restaurant,BBQ Joint,Soba Restaurant,Tonkatsu Restaurant,Hostel,Bar,Café,Coffee Shop,Chinese Restaurant
+124,Bunkyō,Tokyo,35.71881,139.744732,6,Convenience Store,Italian Restaurant,Grocery Store,BBQ Joint,Café,Supermarket,Chinese Restaurant,ATM,Japanese Restaurant,Steakhouse
+125,Chūō,Tokyo,35.666255,139.775565,6,Sushi Restaurant,Japanese Restaurant,Monjayaki Restaurant,Italian Restaurant,Soba Restaurant,Donburi Restaurant,Ramen Restaurant,Tonkatsu Restaurant,Seafood Restaurant,Kaiseki Restaurant
+126,Iidabashi Station,Tokyo,35.701037,139.747501,6,Italian Restaurant,Ramen Restaurant,Japanese Restaurant,BBQ Joint,Sake Bar,Yakitori Restaurant,Chinese Restaurant,Steakhouse,Café,Szechuan Restaurant
+127,Japan Natl Stadium,Tokyo,35.677698,139.71450900000002,3,Café,Baseball Stadium,Coffee Shop,Garden,Chinese Restaurant,Italian Restaurant,Toy / Game Store,Clothing Store,French Restaurant,Sporting Goods Shop
+128,Kioicho,Tokyo,35.680809,139.73568,6,Japanese Restaurant,Café,BBQ Joint,Hotel,Italian Restaurant,Coffee Shop,French Restaurant,Ramen Restaurant,Szechuan Restaurant,Chinese Restaurant
+129,Ministry of Defense,Tokyo,35.693159,139.728782,6,Sake Bar,Ramen Restaurant,BBQ Joint,Café,Italian Restaurant,Japanese Restaurant,Bar,French Restaurant,Rock Club,Soba Restaurant
+130,Mita Station,Tokyo,35.648615,139.748776,6,Japanese Restaurant,Chinese Restaurant,Sake Bar,Coffee Shop,Soba Restaurant,Italian Restaurant,Ramen Restaurant,Indian Restaurant,French Restaurant,Café
+131,Ningyōchō Station,Tokyo,35.684695,139.782708,6,Japanese Restaurant,BBQ Joint,Yakitori Restaurant,Sushi Restaurant,Soba Restaurant,Italian Restaurant,Yoshoku Restaurant,Bistro,Chinese Restaurant,Tempura Restaurant
+132,Ogawamachi Station,Tokyo,35.694967,139.76627299999998,6,Café,Japanese Curry Restaurant,Hobby Shop,Electronics Store,Ramen Restaurant,Coffee Shop,Steakhouse,Japanese Restaurant,Tempura Restaurant,Donburi Restaurant
+133,Roppongi Station,Tokyo,35.663315000000004,139.73278100000002,6,Steakhouse,Japanese Restaurant,Art Gallery,Coffee Shop,Chinese Restaurant,BBQ Joint,Jazz Club,Bakery,Indian Restaurant,Seafood Restaurant
+134,Shibuya,Tokyo,35.664596,139.698711,3,Record Shop,Café,Bar,Coffee Shop,French Restaurant,Chinese Restaurant,Sushi Restaurant,Ramen Restaurant,Bookstore,Stationery Store
+135,Shinjuku,Tokyo,35.692169,139.700558,6,Sake Bar,Japanese Restaurant,BBQ Joint,Café,Ramen Restaurant,Bar,Record Shop,Pub,Coffee Shop,Soba Restaurant
+136,Taitō,Tokyo,35.71745,139.790859,6,Coffee Shop,Café,BBQ Joint,Hostel,Japanese Restaurant,Dessert Shop,Wagashi Place,Sukiyaki Restaurant,Ramen Restaurant,Nabe Restaurant
+137,Toranomon Station,Tokyo,35.67017,139.750049,6,Japanese Restaurant,Hotel,Ramen Restaurant,Yoshoku Restaurant,Chinese Restaurant,Yakitori Restaurant,Sake Bar,Italian Restaurant,Concert Hall,Restaurant
+138,Waseda Station,Tokyo,35.706168,139.719777,6,Ramen Restaurant,Convenience Store,Café,Japanese Restaurant,Coffee Shop,Rock Club,Yoshoku Restaurant,Indian Restaurant,Italian Restaurant,Soba Restaurant
+139,Albisrieden,Zurich,47.374857,8.484657,1,Bus Station,Supermarket,Pizza Place,Swiss Restaurant,Bakery,Restaurant,Trattoria/Osteria,Grocery Store,Scenic Lookout,Gym
+140,Altstadt,Zurich,47.372233,8.542328999999999,4,Swiss Restaurant,Café,Bar,Plaza,Hotel,Cocktail Bar,French Restaurant,Department Store,Pedestrian Plaza,Lounge
+141,Altstetten,Zurich,47.387403000000006,8.486061,1,Supermarket,Bakery,Hotel,Restaurant,Swiss Restaurant,Gas Station,Discount Store,Train Station,Tram Station,Fast Food Restaurant
+142,Aussersihl,Zurich,47.378714,8.5212,5,Bar,Café,Italian Restaurant,Swiss Restaurant,Thai Restaurant,Japanese Restaurant,Asian Restaurant,Park,Middle Eastern Restaurant,Movie Theater
+143,Doldertal,Zurich,47.372721999999996,8.564521000000001,4,Tram Station,Hotel,Swiss Restaurant,Bakery,Plaza,Italian Restaurant,Park,Grocery Store,Supermarket,Pool
+144,Enge,Zurich,47.361789,8.528708,4,Italian Restaurant,Hotel,Restaurant,Bar,Park,Swiss Restaurant,Coffee Shop,Tram Station,Gym / Fitness Center,History Museum
+145,Escher Wyss,Zurich,47.390899,8.515360000000001,4,Café,Hotel,Bar,Swiss Restaurant,Italian Restaurant,Nightclub,Park,Mediterranean Restaurant,Dance Studio,Art Museum
+146,Kirche Unterstrass,Zurich,47.387378000000005,8.541960000000001,4,Italian Restaurant,Hotel,Café,Bakery,Supermarket,Restaurant,Swiss Restaurant,Bar,Park,Thai Restaurant
+147,Riesbach,Zurich,47.357475,8.559865,4,Italian Restaurant,Swiss Restaurant,Café,Restaurant,Hotel,Supermarket,Tram Station,Park,Plaza,Museum
+148,Wiedikon,Zurich,47.366267,8.510713,4,Italian Restaurant,Supermarket,Restaurant,Café,Tram Station,Plaza,Asian Restaurant,Bar,Pizza Place,Bus Station
+149,Wollishofen,Zurich,47.342427,8.530708,1,Bus Station,Restaurant,Supermarket,Gas Station,Harbor / Marina,Swiss Restaurant,Plaza,Pool,Train Station,Hostel
