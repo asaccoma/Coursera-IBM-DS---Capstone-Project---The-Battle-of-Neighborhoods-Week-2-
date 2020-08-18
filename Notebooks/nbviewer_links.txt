@@ -1,1 +1,3 @@
-zzzzz 
+1. https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%201.%20Venues%20collection.ipynb
+
+
