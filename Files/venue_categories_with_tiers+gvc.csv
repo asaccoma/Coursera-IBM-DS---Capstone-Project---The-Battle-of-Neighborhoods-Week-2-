@@ -1,0 +1,528 @@
+,VenCatg,VenCatgTier,GenVenCatg
+0,Accessories Store,Tier-2,Shops/Stores
+1,Adult Boutique,Tier-3,Shops/Stores
+2,Afghan Restaurant,Tier-2,Restaurants/Foods
+3,African Restaurant,Tier-2,Restaurants/Foods
+4,Airport,Tier-3,
+5,Alternative Healer,Tier-3,
+6,American Restaurant,Tier-2,Restaurants/Foods
+7,Amphitheater,Tier-1,Arts/Culture
+8,Animal Shelter,Tier-3,
+9,Antique Shop,Tier-2,Shops/Stores
+10,Aquarium,Tier-1,Parks/Outdoors
+11,Arcade,Tier-3,
+12,Arepa Restaurant,Tier-2,Restaurants/Foods
+13,Argentinian Restaurant,Tier-2,Restaurants/Foods
+14,Art Gallery,Tier-2,Arts/Culture
+15,Art Museum,Tier-1,Arts/Culture
+16,Arts & Crafts Store,Tier-2,Shops/Stores
+17,Asian Restaurant,Tier-2,Restaurants/Foods
+18,Athletics & Sports,Tier-2,Parks/Outdoors
+19,ATM,Tier-3,
+20,Auditorium,Tier-2,
+21,Australian Restaurant,Tier-2,Restaurants/Foods
+22,Austrian Restaurant,Tier-2,Restaurants/Foods
+23,Auto Dealership,Tier-3,Shops/Stores
+24,Auto Workshop,Tier-3,Shops/Stores
+25,Automotive Shop,Tier-3,Shops/Stores
+26,Auvergne Restaurant,Tier-2,Restaurants/Foods
+27,Baby Store,Tier-2,Shops/Stores
+28,Bagel Shop,Tier-2,Restaurants/Foods
+29,Bakery,Tier-2,Restaurants/Foods
+30,Bank,Tier-2,Shops/Stores
+31,Bar,Tier-2,Bars/Pubs/Cafés
+32,Baseball Field,Tier-3,
+33,Baseball Stadium,Tier-3,
+34,Basketball Court,Tier-3,
+35,Basketball Stadium,Tier-2,
+36,Basque Restaurant,Tier-2,Restaurants/Foods
+37,Bath House,Tier-2,
+38,Bathing Area,Tier-1,Parks/Outdoors
+39,Bay,Tier-1,Parks/Outdoors
+40,BBQ Joint,Tier-2,Restaurants/Foods
+41,Beach,Tier-1,Parks/Outdoors
+42,Beach Bar,Tier-2,Bars/Pubs/Cafés
+43,Bed & Breakfast,Tier-3,
+44,Beer Bar,Tier-2,Bars/Pubs/Cafés
+45,Beer Garden,Tier-1,Parks/Outdoors
+46,Beer Store,Tier-2,Shops/Stores
+47,Belgian Restaurant,Tier-2,Restaurants/Foods
+48,Betting Shop,Tier-3,Shops/Stores
+49,Bike Rental / Bike Share,Tier-3,Shops/Stores
+50,Bike Shop,Tier-2,Shops/Stores
+51,Bike Trail,Tier-1,Parks/Outdoors
+52,Bistro,Tier-2,Restaurants/Foods
+53,Board Shop,Tier-3,Shops/Stores
+54,Boarding House,Tier-3,
+55,Boat or Ferry,Tier-3,
+56,Bookstore,Tier-2,Shops/Stores
+57,Botanical Garden,Tier-1,Parks/Outdoors
+58,Boutique,Tier-2,Shops/Stores
+59,Bowling Alley,Tier-2,
+60,Bowling Green,Tier-1,Parks/Outdoors
+61,Boxing Gym,Tier-3,
+62,Brasserie,Tier-2,Restaurants/Foods
+63,Brazilian Restaurant,Tier-2,Restaurants/Foods
+64,Breakfast Spot,Tier-2,Restaurants/Foods
+65,Breton Restaurant,Tier-2,Restaurants/Foods
+66,Brewery,Tier-2,Restaurants/Foods
+67,Bridal Shop,Tier-3,Shops/Stores
+68,Bridge,Tier-1,Parks/Outdoors
+69,Bubble Tea Shop,Tier-2,Restaurants/Foods
+70,Buddhist Temple,Tier-1,Arts/Culture
+71,Buffet,Tier-3,Restaurants/Foods
+72,Building,Tier-3,
+73,Burger Joint,Tier-3,Restaurants/Foods
+74,Burmese Restaurant,Tier-2,Restaurants/Foods
+75,Burrito Place,Tier-2,Restaurants/Foods
+76,Bus Line,Tier-3,
+77,Bus Station,Tier-3,
+78,Bus Stop,Tier-3,
+79,Business Service,Tier-3,
+80,Butcher,Tier-2,Restaurants/Foods
+81,Cable Car,Tier-3,
+82,Café,Tier-2,Bars/Pubs/Cafés
+83,Cafeteria,Tier-2,Bars/Pubs/Cafés
+84,Cajun / Creole Restaurant,Tier-2,Restaurants/Foods
+85,Calabria Restaurant,Tier-2,Restaurants/Foods
+86,Cambodian Restaurant,Tier-2,Restaurants/Foods
+87,Camera Store,Tier-2,Shops/Stores
+88,Campanian Restaurant,Tier-2,Restaurants/Foods
+89,Canal,Tier-2,
+90,Canal Lock,Tier-3,
+91,Candy Store,Tier-2,Shops/Stores
+92,Cantonese Restaurant,Tier-2,Restaurants/Foods
+93,Caribbean Restaurant,Tier-2,Restaurants/Foods
+94,Carpet Store,Tier-2,Shops/Stores
+95,Casino,Tier-3,
+96,Castle,Tier-1,Arts/Culture
+97,Caucasian Restaurant,Tier-2,Restaurants/Foods
+98,Cemetery,Tier-3,
+99,Cha Chaan Teng,Tier-2,Restaurants/Foods
+100,Champagne Bar,Tier-2,Bars/Pubs/Cafés
+101,Cheese Shop,Tier-2,Restaurants/Foods
+102,Chinese Restaurant,Tier-2,Restaurants/Foods
+103,Chocolate Shop,Tier-2,Restaurants/Foods
+104,Church,Tier-3,
+105,Churrascaria,Tier-2,Restaurants/Foods
+106,Circus,Tier-2,
+107,Circus School,Tier-3,
+108,Climbing Gym,Tier-3,
+109,Clothing Store,Tier-2,Shops/Stores
+110,Club House,Tier-3,
+111,Cocktail Bar,Tier-2,Bars/Pubs/Cafés
+112,Coffee Shop,Tier-2,Bars/Pubs/Cafés
+113,College Arts Building,Tier-3,
+114,College Cafeteria,Tier-3,
+115,College Gym,Tier-3,
+116,College Quad,Tier-3,
+117,College Rec Center,Tier-3,
+118,College Theater,Tier-3,
+119,Colombian Restaurant,Tier-2,Restaurants/Foods
+120,Comedy Club,Tier-2,
+121,Comfort Food Restaurant,Tier-2,Restaurants/Foods
+122,Comic Shop,Tier-2,Shops/Stores
+123,Community Center,Tier-2,
+124,Concert Hall,Tier-1,Arts/Culture
+125,Convenience Store,Tier-2,Shops/Stores
+126,Convention Center,Tier-3,
+127,Cooking School,Tier-2,Restaurants/Foods
+128,Corsican Restaurant,Tier-2,Restaurants/Foods
+129,Cosmetics Shop,Tier-2,Shops/Stores
+130,Coworking Space,Tier-3,
+131,Creperie,Tier-2,Restaurants/Foods
+132,Cricket Ground,Tier-3,
+133,Cuban Restaurant,Tier-2,Restaurants/Foods
+134,Cultural Center,Tier-2,
+135,Cupcake Shop,Tier-2,Restaurants/Foods
+136,Cycle Studio,Tier-3,
+137,Czech Restaurant,Tier-2,Restaurants/Foods
+138,Dance Studio,Tier-3,
+139,Deli / Bodega,Tier-1,Restaurants/Foods
+140,Department Store,Tier-2,Shops/Stores
+141,Design Studio,Tier-3,
+142,Dessert Shop,Tier-2,Restaurants/Foods
+143,Dim Sum Restaurant,Tier-2,Restaurants/Foods
+144,Diner,Tier-2,Restaurants/Foods
+145,Discount Store,Tier-3,Shops/Stores
+146,Distillery,Tier-2,Restaurants/Foods
+147,Dive Bar,Tier-2,Bars/Pubs/Cafés
+148,Dive Shop,Tier-2,Shops/Stores
+149,Doctor's Office,Tier-2,
+150,Dog Run,Tier-2,Parks/Outdoors
+151,Donburi Restaurant,Tier-2,Restaurants/Foods
+152,Doner Restaurant,Tier-2,Restaurants/Foods
+153,Dongbei Restaurant,Tier-2,Restaurants/Foods
+154,Donut Shop,Tier-2,Restaurants/Foods
+155,Drugstore,Tier-2,Shops/Stores
+156,Dry Cleaner,Tier-2,Shops/Stores
+157,Dumpling Restaurant,Tier-2,Restaurants/Foods
+158,Eastern European Restaurant,Tier-2,Restaurants/Foods
+159,Egyptian Restaurant,Tier-2,Restaurants/Foods
+160,Electronics Store,Tier-2,Shops/Stores
+161,Elementary School,Tier-3,
+162,Empanada Restaurant,Tier-2,Restaurants/Foods
+163,English Restaurant,Tier-2,Restaurants/Foods
+164,Ethiopian Restaurant,Tier-2,Restaurants/Foods
+165,Event Space,Tier-2,
+166,Exhibit,Tier-1,Arts/Culture
+167,Fabric Shop,Tier-2,Shops/Stores
+168,Factory,Tier-3,
+169,Falafel Restaurant,Tier-2,Restaurants/Foods
+170,Farm,Tier-2,Parks/Outdoors
+171,Farmers Market,Tier-1,Restaurants/Foods
+172,Fast Food Restaurant,Tier-3,Restaurants/Foods
+173,Field,Tier-1,Parks/Outdoors
+174,Filipino Restaurant,Tier-2,Restaurants/Foods
+175,Film Studio,Tier-3,
+176,Financial or Legal Service,Tier-3,
+177,Fish & Chips Shop,Tier-2,Restaurants/Foods
+178,Fish Market,Tier-2,Restaurants/Foods
+179,Fishing Spot,Tier-1,Parks/Outdoors
+180,Flea Market,Tier-1,Parks/Outdoors
+181,Flower Shop,Tier-2,Shops/Stores
+182,Fondue Restaurant,Tier-2,Restaurants/Foods
+183,Food,Tier-2,Restaurants/Foods
+184,Food & Drink Shop,Tier-2,Restaurants/Foods
+185,Food Court,Tier-1,Restaurants/Foods
+186,Food Stand,Tier-2,Restaurants/Foods
+187,Food Truck,Tier-2,Restaurants/Foods
+188,Fountain,Tier-1,Parks/Outdoors
+189,French Restaurant,Tier-2,Restaurants/Foods
+190,Fried Chicken Joint,Tier-3,Restaurants/Foods
+191,Frozen Yogurt Shop,Tier-2,Restaurants/Foods
+192,Fruit & Vegetable Store,Tier-2,Shops/Stores
+193,Furniture / Home Store,Tier-2,Shops/Stores
+194,Gaming Cafe,Tier-3,
+195,Garden,Tier-1,Parks/Outdoors
+196,Garden Center,Tier-1,Parks/Outdoors
+197,Gas Station,Tier-3,
+198,Gastropub,Tier-2,Restaurants/Foods
+199,Gay Bar,Tier-2,Bars/Pubs/Cafés
+200,General College & University,Tier-2,
+201,General Entertainment,Tier-3,
+202,German Restaurant,Tier-2,Restaurants/Foods
+203,Gift Shop,Tier-2,Shops/Stores
+204,Gluten-free Restaurant,Tier-2,Restaurants/Foods
+205,Golf Course,Tier-1,Parks/Outdoors
+206,Golf Driving Range,Tier-2,Parks/Outdoors
+207,Gourmet Shop,Tier-2,Restaurants/Foods
+208,Government Building,Tier-3,
+209,Greek Restaurant,Tier-2,Restaurants/Foods
+210,Grilled Meat Restaurant,Tier-2,Restaurants/Foods
+211,Grocery Store,Tier-2,Shops/Stores
+212,Gym,Tier-2,
+213,Gym / Fitness Center,Tier-2,
+214,Gym Pool,Tier-2,
+215,Gymnastics Gym,Tier-3,
+216,Hainan Restaurant,Tier-2,Restaurants/Foods
+217,Halal Restaurant,Tier-2,Restaurants/Foods
+218,Harbor / Marina,Tier-1,Parks/Outdoors
+219,Hardware Store,Tier-2,Shops/Stores
+220,Hawaiian Restaurant,Tier-2,Restaurants/Foods
+221,Health & Beauty Service,Tier-2,Shops/Stores
+222,Health Food Store,Tier-2,Shops/Stores
+223,Heliport,Tier-3,
+224,Henan Restaurant,Tier-2,Restaurants/Foods
+225,Herbs & Spices Store,Tier-2,Shops/Stores
+226,Hill,Tier-2,Parks/Outdoors
+227,Himalayan Restaurant,Tier-2,Restaurants/Foods
+228,Historic Site,Tier-1,Arts/Culture
+229,History Museum,Tier-1,Arts/Culture
+230,Hobby Shop,Tier-2,Shops/Stores
+231,Hockey Arena,Tier-2,Parks/Outdoors
+232,Hong Kong Restaurant,Tier-2,Restaurants/Foods
+233,Hookah Bar,Tier-2,Bars/Pubs/Cafés
+234,Hostel,Tier-3,
+235,Hot Dog Joint,Tier-3,Restaurants/Foods
+236,Hot Spring,Tier-3,
+237,Hotel,Tier-2,
+238,Hotel Bar,Tier-2,Bars/Pubs/Cafés
+239,Hotel Pool,Tier-2,
+240,Hotpot Restaurant,Tier-2,Restaurants/Foods
+241,Hunan Restaurant,Tier-2,Restaurants/Foods
+242,Hungarian Restaurant,Tier-2,Restaurants/Foods
+243,Ice Cream Shop,Tier-2,Restaurants/Foods
+244,Indian Restaurant,Tier-2,Restaurants/Foods
+245,Indie Movie Theater,Tier-2,
+246,Indie Theater,Tier-2,
+247,Indonesian Restaurant,Tier-2,Restaurants/Foods
+248,Indoor Play Area,Tier-3,
+249,Inn,Tier-2,
+250,Intersection,Tier-3,
+251,Iraqi Restaurant,Tier-2,Restaurants/Foods
+252,Irish Pub,Tier-2,Bars/Pubs/Cafés
+253,Island,Tier-2,
+254,Israeli Restaurant,Tier-2,Restaurants/Foods
+255,IT Services,Tier-3,
+256,Italian Restaurant,Tier-2,Restaurants/Foods
+257,Japanese Curry Restaurant,Tier-2,Restaurants/Foods
+258,Japanese Family Restaurant,Tier-2,Restaurants/Foods
+259,Japanese Restaurant,Tier-2,Restaurants/Foods
+260,Jazz Club,Tier-2,
+261,Jewelry Store,Tier-2,Shops/Stores
+262,Jiangxi Restaurant,Tier-2,Restaurants/Foods
+263,Juice Bar,Tier-2,Bars/Pubs/Cafés
+264,Kaiseki Restaurant,Tier-2,Restaurants/Foods
+265,Karaoke Bar,Tier-2,Bars/Pubs/Cafés
+266,Karaoke Box,Tier-2,Bars/Pubs/Cafés
+267,Kebab Restaurant,Tier-2,Restaurants/Foods
+268,Kids Store,Tier-2,Shops/Stores
+269,Kitchen Supply Store,Tier-2,Shops/Stores
+270,Korean BBQ Restaurant,Tier-2,Restaurants/Foods
+271,Korean Restaurant,Tier-2,Restaurants/Foods
+272,Kushikatsu Restaurant,Tier-2,Restaurants/Foods
+273,Latin American Restaurant,Tier-2,Restaurants/Foods
+274,Laundry Service,Tier-2,Shops/Stores
+275,Leather Goods Store,Tier-2,Shops/Stores
+276,Lebanese Restaurant,Tier-2,Restaurants/Foods
+277,Library,Tier-2,Arts/Culture
+278,Light Rail Station,Tier-3,
+279,Lingerie Store,Tier-2,Shops/Stores
+280,Liquor Store,Tier-2,Shops/Stores
+281,Lombard Restaurant,Tier-2,Restaurants/Foods
+282,Lounge,Tier-2,
+283,Luggage Store,Tier-2,Shops/Stores
+284,Mac & Cheese Joint,Tier-3,Restaurants/Foods
+285,Malay Restaurant,Tier-2,Restaurants/Foods
+286,Marijuana Dispensary,Tier-3,Shops/Stores
+287,Market,Tier-1,Restaurants/Foods
+288,Martial Arts Dojo,Tier-3,
+289,Massage Studio,Tier-3,
+290,Mattress Store,Tier-2,Shops/Stores
+291,Medical Center,Tier-2,
+292,Medical Supply Store,Tier-2,Shops/Stores
+293,Mediterranean Restaurant,Tier-2,Restaurants/Foods
+294,Memorial Site,Tier-2,
+295,Men's Store,Tier-2,Shops/Stores
+296,Metro Station,Tier-3,
+297,Mexican Restaurant,Tier-2,Restaurants/Foods
+298,Meyhane,Tier-2,Restaurants/Foods
+299,Middle Eastern Restaurant,Tier-2,Restaurants/Foods
+300,Mini Golf,Tier-2,Parks/Outdoors
+301,Miscellaneous Shop,Tier-2,Shops/Stores
+302,Mobile Phone Shop,Tier-2,Shops/Stores
+303,Mobility Store,Tier-2,Shops/Stores
+304,Modern European Restaurant,Tier-2,Restaurants/Foods
+305,Molecular Gastronomy Restaurant,Tier-2,Restaurants/Foods
+306,Mongolian Restaurant,Tier-2,Restaurants/Foods
+307,Monjayaki Restaurant,Tier-2,Restaurants/Foods
+308,Monument / Landmark,Tier-1,Arts/Culture
+309,Moroccan Restaurant,Tier-2,Restaurants/Foods
+310,Motel,Tier-3,
+311,Motorcycle Shop,Tier-2,Shops/Stores
+312,Mountain,Tier-2,Parks/Outdoors
+313,Movie Theater,Tier-2,Arts/Culture
+314,Multiplex,Tier-3,
+315,Museum,Tier-1,Arts/Culture
+316,Music School,Tier-2,Arts/Culture
+317,Music Store,Tier-2,Shops/Stores
+318,Music Venue,Tier-1,Arts/Culture
+319,Nabe Restaurant,Tier-2,Restaurants/Foods
+320,Nail Salon,Tier-3,Shops/Stores
+321,National Park,Tier-1,Parks/Outdoors
+322,Neighborhood,Tier-3,
+323,New American Restaurant,Tier-2,Restaurants/Foods
+324,Nightclub,Tier-3,
+325,Non-Profit,Tier-3,
+326,Noodle House,Tier-2,Restaurants/Foods
+327,North Indian Restaurant,Tier-2,Restaurants/Foods
+328,Office,Tier-3,
+329,Okonomiyaki Restaurant,Tier-2,Restaurants/Foods
+330,Opera House,Tier-1,Arts/Culture
+331,Optical Shop,Tier-2,Shops/Stores
+332,Organic Grocery,Tier-2,Restaurants/Foods
+333,Other Great Outdoors,Tier-2,Parks/Outdoors
+334,Other Nightlife,Tier-2,Bars/Pubs/Cafés
+335,Other Repair Shop,Tier-2,Shops/Stores
+336,Outdoor Sculpture,Tier-2,
+337,Outdoor Supply Store,Tier-2,Shops/Stores
+338,Outdoors & Recreation,Tier-2,Parks/Outdoors
+339,Paella Restaurant,Tier-2,Restaurants/Foods
+340,Pakistani Restaurant,Tier-2,Restaurants/Foods
+341,Palace,Tier-1,Arts/Culture
+342,Paper / Office Supplies Store,Tier-2,Shops/Stores
+343,Park,Tier-1,Parks/Outdoors
+344,Pastry Shop,Tier-2,Restaurants/Foods
+345,Pedestrian Plaza,Tier-1,Parks/Outdoors
+346,Peking Duck Restaurant,Tier-2,Restaurants/Foods
+347,Performing Arts Venue,Tier-1,Arts/Culture
+348,Perfume Shop,Tier-2,Shops/Stores
+349,Persian Restaurant,Tier-2,Restaurants/Foods
+350,Peruvian Restaurant,Tier-2,Restaurants/Foods
+351,Pet Café,Tier-2,
+352,Pet Store,Tier-2,Shops/Stores
+353,Pharmacy,Tier-2,Shops/Stores
+354,Photography Lab,Tier-3,
+355,Photography Studio,Tier-3,
+356,Physical Therapist,Tier-3,
+357,Piadineria,Tier-2,Restaurants/Foods
+358,Pie Shop,Tier-2,Restaurants/Foods
+359,Pier,Tier-1,Parks/Outdoors
+360,Piercing Parlor,Tier-3,
+361,Pilates Studio,Tier-3,
+362,Pizza Place,Tier-2,Restaurants/Foods
+363,Planetarium,Tier-2,Arts/Culture
+364,Playground,Tier-2,Parks/Outdoors
+365,Plaza,Tier-1,Parks/Outdoors
+366,Poke Place,Tier-2,Restaurants/Foods
+367,Polish Restaurant,Tier-2,Restaurants/Foods
+368,Pool,Tier-1,Parks/Outdoors
+369,Pool Hall,Tier-2,
+370,Pop-Up Shop,Tier-2,Shops/Stores
+371,Portuguese Restaurant,Tier-2,Restaurants/Foods
+372,Print Shop,Tier-2,Shops/Stores
+373,Pub,Tier-2,Bars/Pubs/Cafés
+374,Public Art,Tier-2,Arts/Culture
+375,Puglia Restaurant,Tier-2,Restaurants/Foods
+376,Racetrack,Tier-3,
+377,Radio Station,Tier-3,
+378,Ramen Restaurant,Tier-2,Restaurants/Foods
+379,Record Shop,Tier-2,Shops/Stores
+380,Recording Studio,Tier-3,
+381,Recreation Center,Tier-2,
+382,Rental Car Location,Tier-3,
+383,Reservoir,Tier-3,
+384,Residential Building (Apartment / Condo),Tier-3,
+385,Resort,Tier-1,Parks/Outdoors
+386,Rest Area,Tier-3,
+387,Restaurant,Tier-2,Restaurants/Foods
+388,River,Tier-1,Parks/Outdoors
+389,Road,Tier-3,
+390,Rock Club,Tier-3,
+391,Roller Rink,Tier-2,Parks/Outdoors
+392,Roman Restaurant,Tier-2,Restaurants/Foods
+393,Roof Deck,Tier-2,Parks/Outdoors
+394,Rugby Stadium,Tier-3,
+395,Russian Restaurant,Tier-2,Restaurants/Foods
+396,Sake Bar,Tier-2,Bars/Pubs/Cafés
+397,Salad Place,Tier-3,Restaurants/Foods
+398,Salon / Barbershop,Tier-2,Shops/Stores
+399,Salvadoran Restaurant,Tier-2,Restaurants/Foods
+400,Sandwich Place,Tier-3,Restaurants/Foods
+401,Sauna / Steam Room,Tier-2,Shops/Stores
+402,Savoyard Restaurant,Tier-2,Restaurants/Foods
+403,Scandinavian Restaurant,Tier-2,Restaurants/Foods
+404,Scenic Lookout,Tier-1,Parks/Outdoors
+405,School,Tier-3,
+406,Science Museum,Tier-1,Arts/Culture
+407,Scottish Restaurant,Tier-2,Restaurants/Foods
+408,Sculpture Garden,Tier-1,Parks/Outdoors
+409,Seafood Restaurant,Tier-2,Restaurants/Foods
+410,Shabu-Shabu Restaurant,Tier-2,Restaurants/Foods
+411,Shanghai Restaurant,Tier-2,Restaurants/Foods
+412,Shanxi Restaurant,Tier-2,Restaurants/Foods
+413,Shawarma Place,Tier-2,Bars/Pubs/Cafés
+414,Shipping Store,Tier-2,Shops/Stores
+415,Shoe Store,Tier-2,Shops/Stores
+416,Shopping Mall,Tier-2,Shops/Stores
+417,Shopping Plaza,Tier-2,Shops/Stores
+418,Shrine,Tier-2,Arts/Culture
+419,Sicilian Restaurant,Tier-2,Restaurants/Foods
+420,Skate Park,Tier-3,Parks/Outdoors
+421,Skating Rink,Tier-3,Parks/Outdoors
+422,Ski Area,Tier-1,Parks/Outdoors
+423,Ski Shop,Tier-2,Shops/Stores
+424,Smoke Shop,Tier-2,Shops/Stores
+425,Smoothie Shop,Tier-2,Restaurants/Foods
+426,Snack Place,Tier-2,Restaurants/Foods
+427,Soba Restaurant,Tier-2,Restaurants/Foods
+428,Soccer Field,Tier-3,Parks/Outdoors
+429,Soccer Stadium,Tier-3,
+430,Social Club,Tier-2,
+431,Soup Place,Tier-2,Restaurants/Foods
+432,South American Restaurant,Tier-2,Restaurants/Foods
+433,South Indian Restaurant,Tier-2,Restaurants/Foods
+434,South Tyrolean Restaurant,Tier-2,Restaurants/Foods
+435,Southern / Soul Food Restaurant,Tier-2,Restaurants/Foods
+436,Southwestern French Restaurant,Tier-2,Restaurants/Foods
+437,Souvenir Shop,Tier-2,Shops/Stores
+438,Souvlaki Shop,Tier-2,Restaurants/Foods
+439,Spa,Tier-2,Shops/Stores
+440,Spanish Restaurant,Tier-2,Restaurants/Foods
+441,Speakeasy,Tier-2,Bars/Pubs/Cafés
+442,Spiritual Center,Tier-3,
+443,Sporting Goods Shop,Tier-2,Shops/Stores
+444,Sports Bar,Tier-2,Bars/Pubs/Cafés
+445,Sports Club,Tier-1,Parks/Outdoors
+446,Sri Lankan Restaurant,Tier-2,Restaurants/Foods
+447,Stables,Tier-3,
+448,Stadium,Tier-3,
+449,State / Provincial Park,Tier-1,Parks/Outdoors
+450,Stationery Store,Tier-2,Shops/Stores
+451,Steakhouse,Tier-2,Restaurants/Foods
+452,Street Art,Tier-2,Arts/Culture
+453,Street Food Gathering,Tier-1,Restaurants/Foods
+454,Strip Club,Tier-3,
+455,Sukiyaki Restaurant,Tier-2,Restaurants/Foods
+456,Supermarket,Tier-2,Shops/Stores
+457,Surf Spot,Tier-3,Shops/Stores
+458,Sushi Restaurant,Tier-2,Restaurants/Foods
+459,Swiss Restaurant,Tier-2,Restaurants/Foods
+460,Synagogue,Tier-3,
+461,Syrian Restaurant,Tier-2,Restaurants/Foods
+462,Szechuan Restaurant,Tier-2,Restaurants/Foods
+463,Taco Place,Tier-2,Restaurants/Foods
+464,Tailor Shop,Tier-2,Shops/Stores
+465,Taiwanese Restaurant,Tier-2,Restaurants/Foods
+466,Tanning Salon,Tier-3,Shops/Stores
+467,Tapas Restaurant,Tier-2,Restaurants/Foods
+468,Tattoo Parlor,Tier-3,Shops/Stores
+469,Taverna,Tier-2,Restaurants/Foods
+470,Tea Room,Tier-2,Restaurants/Foods
+471,Tech Startup,Tier-3,
+472,Tempura Restaurant,Tier-2,Restaurants/Foods
+473,Tennis Court,Tier-1,Parks/Outdoors
+474,Tennis Stadium,Tier-1,Parks/Outdoors
+475,Tex-Mex Restaurant,Tier-2,Restaurants/Foods
+476,Thai Restaurant,Tier-2,Restaurants/Foods
+477,Theater,Tier-1,Arts/Culture
+478,Theme Park,Tier-3,Parks/Outdoors
+479,Theme Park Ride / Attraction,Tier-3,Parks/Outdoors
+480,Theme Restaurant,Tier-2,Restaurants/Foods
+481,Thrift / Vintage Store,Tier-2,Shops/Stores
+482,Tibetan Restaurant,Tier-2,Restaurants/Foods
+483,Tiki Bar,Tier-2,Bars/Pubs/Cafés
+484,Tonkatsu Restaurant,Tier-2,Restaurants/Foods
+485,Tour Provider,Tier-3,
+486,Tourist Information Center,Tier-3,
+487,Toy / Game Store,Tier-2,Shops/Stores
+488,Track,Tier-1,Parks/Outdoors
+489,Track Stadium,Tier-3,
+490,Trade School,Tier-3,
+491,Trail,Tier-1,Parks/Outdoors
+492,Train Station,Tier-3,
+493,Tram Station,Tier-3,
+494,Transportation Service,Tier-3,
+495,Trattoria/Osteria,Tier-2,Restaurants/Foods
+496,Travel Lounge,Tier-2,
+497,Tunnel,Tier-3,
+498,Turkish Restaurant,Tier-2,Restaurants/Foods
+499,Tuscan Restaurant,Tier-2,Restaurants/Foods
+500,TV Station,Tier-3,
+501,Udon Restaurant,Tier-2,Restaurants/Foods
+502,Unagi Restaurant,Tier-2,Restaurants/Foods
+503,University,Tier-2,
+504,Used Bookstore,Tier-2,Shops/Stores
+505,Vegetarian / Vegan Restaurant,Tier-3,Restaurants/Foods
+506,Venezuelan Restaurant,Tier-2,Restaurants/Foods
+507,Video Store,Tier-2,Shops/Stores
+508,Vietnamese Restaurant,Tier-2,Restaurants/Foods
+509,Vineyard,Tier-2,Bars/Pubs/Cafés
+510,Wagashi Place,Tier-2,Restaurants/Foods
+511,Warehouse Store,Tier-3,
+512,Watch Shop,Tier-2,Shops/Stores
+513,Waterfall,Tier-1,Parks/Outdoors
+514,Waterfront,Tier-1,Parks/Outdoors
+515,Whisky Bar,Tier-2,Bars/Pubs/Cafés
+516,Wine Bar,Tier-2,Bars/Pubs/Cafés
+517,Wine Shop,Tier-2,Restaurants/Foods
+518,Winery,Tier-2,Restaurants/Foods
+519,Wings Joint,Tier-3,Restaurants/Foods
+520,Women's Store,Tier-2,Shops/Stores
+521,Yakitori Restaurant,Tier-2,Restaurants/Foods
+522,Yemeni Restaurant,Tier-2,Restaurants/Foods
+523,Yoga Studio,Tier-3,
+524,Yoshoku Restaurant,Tier-2,Restaurants/Foods
+525,Zoo,Tier-2,Parks/Outdoors
+526,Zoo Exhibit,Tier-2,Parks/Outdoors
