@@ -1,7 +1,10 @@
-1. https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%201.%20Venues%20collection.ipynb?flush_cache=true
+1. 
+https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%201.%20Venues%20collection.ipynb?flush_cache=true
 
-2. https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%202.%20Venues%20analysis.ipynb?flush_cache=true
+2. 
+https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%202.%20Venues%20analysis.ipynb?flush_cache=true
 
 3. 
+https://nbviewer.jupyter.org/github/asaccoma/Coursera-IBM-DS---Capstone-Project---The-Battle-of-Neighborhoods-Week-2-/blob/master/Notebooks/IBM%20DS%20Project%20-%203.%20Other%20data%20collection.ipynb?flush_cache=true
 
 
